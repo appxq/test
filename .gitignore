@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 runtime/
+=======
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+>>>>>>> 8658aff57d948aac25cc184175a08afd8182ba00
